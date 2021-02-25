@@ -1,0 +1,8 @@
+<div>
+    <h2 class="header"> Lab4 Component - ngFor/ngIf </h2>
+    <p class = "number-inline" *ngFor="let item of items">
+        <span class = "number-even" *ngIf="item % 2 === 0">{{ item }}</span>
+        <span class = "number-odd" *ngIf="item % 2 !== 0">{{ item }}</span>,
+    </p>
+
+</div>

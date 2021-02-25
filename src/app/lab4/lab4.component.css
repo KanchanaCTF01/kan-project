@@ -1,0 +1,20 @@
+.number-even {
+    color: green;
+    font-size: 30px;
+    font-weight: bold;
+}
+.number-odd {
+    color: red;
+    font-size: 30px;
+    font-weight: bold;
+}
+.number-inline {
+    display: inline ; 
+    font-size: 30px;
+}
+.header {
+    color: black;
+    font-size: 40px;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 5px blue;
+}
