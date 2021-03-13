@@ -2,7 +2,8 @@
     color: black;
     font-size: 40px;
     text-transform: uppercase;
-    text-shadow: 2px 2px 5px blue;
+    text-shadow: 2px 2px 5px whitesmoke;
+    text-align: center;
 }
 .setTitle {
     font-size: 20px;
